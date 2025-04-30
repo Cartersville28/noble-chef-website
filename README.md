@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
@@ -52,3 +53,7 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# noble-chef-website
+restaurant website
+>>>>>>> 31eef40c6f53642dfb76595b4d87a4741067416c
