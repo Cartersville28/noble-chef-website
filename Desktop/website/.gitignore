@@ -4,3 +4,25 @@ node_modules/
 .DS_Store
 *.log
 .env
+
+# Ignore system files
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+ntuser.dat
+*.log
+
+# Ignore VSCode and node_modules
+.vscode/
+node_modules/
+
+# Other unnecessary files/folders
+*.bak
+*.swp
