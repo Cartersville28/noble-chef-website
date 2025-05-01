@@ -1,3 +1,8 @@
 [submodule "Desktop/website/grilli"]
 	path = Desktop/website/grilli
 	url = https://github.com/username/grilli.git
+[submodule "Desktop/website/grilli"]
+    path = Desktop/website/grilli
+    url = https://github.com/username/grilli.git
+
+
