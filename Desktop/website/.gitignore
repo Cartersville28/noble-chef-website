@@ -1,0 +1,6 @@
+# Ignore node modules and system junk
+node_modules/
+.vscode/
+.DS_Store
+*.log
+.env
