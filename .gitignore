@@ -1,0 +1,56 @@
+# ==============================
+# General Development & OS Files
+# ==============================
+.DS_Store           # macOS metadata
+Thumbs.db           # Windows thumbnails
+desktop.ini         # Windows folder settings
+*.log               # Log files
+*.tmp               # Temporary files
+*.swp               # Vim swap files
+~$*                 # Office temp files
+
+# ==============
+# Node.js (if used)
+# ==============
+node_modules/       # Dependencies
+.npm
+.pnpm
+.yarn-integrity
+package-lock.json   # Can be committed, but often ignored in favor of yarn.lock
+yarn.lock           # If using Yarn
+
+# ==============
+# Backend (if applicable)
+# ==============
+.env                # Environment variables (sensitive!)
+*.env.local         # Local overrides
+*.key               # SSL/SSH keys
+*.pem
+
+# ==============
+# IDE & Editor Files
+# ==============
+.vscode/            # VS Code settings
+.idea/              # JetBrains IDE
+*.suo               # Visual Studio
+*.user              # Visual Studio
+
+# ==============
+# Build & Output
+# ==============
+dist/               # Built files
+build/              # Common build folder
+*.min.js            # Minified JS (if source is tracked)
+*.min.css           # Minified CSS
+
+# ==============
+# Testing & Coverage
+# ==============
+coverage/           # Test coverage reports
+.nyc_output/        # Istanbul coverage
+
+# ==============
+# Misc
+# ==============
+*.mp4               # Video files (example)
+*.zip               # Archives
